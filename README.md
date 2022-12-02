@@ -1,4 +1,4 @@
-# 42-minishell
+# minishell
 
 **Score: 100/100**
 
