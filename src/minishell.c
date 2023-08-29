@@ -12,6 +12,8 @@
 
 #include "../inc/minishell.h"
 
+int	g_exit_status;
+
 void	ctrl_d(t_data *data)
 {
 	write(STDOUT_FILENO, "exit\n", 5);

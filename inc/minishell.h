@@ -25,7 +25,7 @@
 # include <signal.h>
 # include <dirent.h>
 
-int	g_exit_status;
+extern int	g_exit_status;
 
 typedef enum bool
 {
